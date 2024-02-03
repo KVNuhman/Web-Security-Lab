@@ -1,6 +1,6 @@
 # SQL injection UNION attack, finding a column containing text
 
-# Lab Descriptions
+## Lab Description
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/9ec8c0df-06ad-4253-9b94-a9675dada9d6)
 
