@@ -1,10 +1,10 @@
 # SQL injection UNION attack, retrieving data from other tables
 
-# Lab Descriptions
+## Lab Descriptions
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/b533f3bb-b525-4c83-96f3-fc929ecaea08)
 
-# Solution
+## Solution
 
 First step is finding out the number of columns in resultset using `UNION SELECT NULL` paylod. Which we find to be two columns.
 
