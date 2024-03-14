@@ -29,5 +29,5 @@ The file has been uploaded successfully. In the response section we can see the 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/8bca5f8f-be6b-4e5b-ba6c-98b238de43db)
 
 Entering the secret in the submit solution alert box finishes the lab.
-
+b
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/73550f8c-9a23-4908-a235-1ddcbb9cb02d)
