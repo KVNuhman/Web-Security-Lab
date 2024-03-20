@@ -14,7 +14,7 @@ In HTTP History we can see the post and get request. Send them to Repeater.
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/d6707dc5-da8d-41c9-882d-905fc360ae85)
 
-Create an exploit.php file to retreive the secret.
+Create an exploit.php file to retrieve the secret.
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/eb704d28-059f-440f-9bb2-de0f1c102558)
 

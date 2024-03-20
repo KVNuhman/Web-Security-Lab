@@ -10,7 +10,7 @@ Log in using the given username and password `wiener:peter` and upload an avatar
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/48bd70e4-f1fe-4217-ae40-9b642b505efc)
 
-Create an **exploit.php** file to retreive the secret.
+Create an **exploit.php** file to retrieve the secret.
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/eb704d28-059f-440f-9bb2-de0f1c102558)
 
