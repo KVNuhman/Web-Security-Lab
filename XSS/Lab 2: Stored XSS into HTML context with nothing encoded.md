@@ -14,6 +14,6 @@ As we submit the comment we get the pop saying lab is completed.
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/d331dcec-6814-45b6-8d39-3f4d9effed28)
 
-If we go to the post we commented on, eveytime the page loads, the alert is shown, hence the STored XSS is successful.
+If we go to the post we commented on, eveytime the page loads, the alert is shown, hence the Stored XSS is successful.
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/1fa34378-4da6-4bff-81fd-dea487d14cc1)
