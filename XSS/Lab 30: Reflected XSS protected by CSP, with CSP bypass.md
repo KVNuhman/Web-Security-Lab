@@ -15,3 +15,7 @@ Append `?search=%3Cscript%3Ealert%281%29%3C%2Fscript%3E&token=;script-src-elem%2
 The injection uses the `script-src-elem` directive in CSP. This directive allows you to target just script elements. Using this directive, you can overwrite existing `script-src` rules enabling you to inject `unsafe-inline`, which allows you to use inline scripts.
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/ab37a581-a7b7-49bb-90cd-de313082742a)
+
+- `%3Cscript%3Ealert%281%29%3C%2Fscript%3E`: This URL-encoded string represents the JavaScript `<script>` tag with an `alert(1)` payload inside. When this payload is rendered by the web application (due to improper input sanitization or reflected XSS vulnerability), it will trigger an alert dialog box with the message `1`.
+
+- `token=;script-src-elem%20%27unsafe-inline%27`: This part of the URL appears to be setting a security policy related to script execution. The `script-src-elem 'unsafe-inline'` policy likely specifies that inline scripts (scripts directly embedded within HTML elements) are allowed to execute, which can pose security risks.
