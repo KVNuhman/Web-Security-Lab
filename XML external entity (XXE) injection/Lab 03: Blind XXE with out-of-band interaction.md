@@ -25,7 +25,7 @@ Replace the productId number with a reference to the external entity: `&xxe;`
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/c1a67486-e60f-4d0d-bf0d-df3362fbe845)
 
-o to the Collaborator tab, some DNS and HTTP interactions that were initiated by the application as the result of your payload wil be visible.
+o to the Collaborator tab, some DNS and HTTP interactions that were initiated by the application as the result of our payload wil be visible.
 
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/6aca349c-832d-4284-ad13-bfcfaaad0ee0)
 
