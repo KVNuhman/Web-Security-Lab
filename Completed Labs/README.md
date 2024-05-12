@@ -2,28 +2,29 @@
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/413bd16f-0782-43a3-8844-a0084da800d3)
 
 ## Cross-site Scripting
-![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/be766b42-a2a0-40a5-bf4d-03b8bcb02e98)
+![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/0179de80-211c-4485-a491-bad5a2bd05b9)
 
 ## Cross-site request forgery (CSRF)
-![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/d3d43d27-e7fb-4dc9-95c8-c00a8ec176c4)
+![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/e71e3a05-df85-494b-bdb1-5ec9a0cee4e5)
 
 ## Cross-origin resource sharing (CORS)
-![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/00d859e2-ccf7-4f0d-beac-812ffd832df5)
+![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/7f8ca121-b018-423c-8ae7-019b999a2ce9)
 
 ## XML external entity (XXE) injection
-![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/317e4cf1-cd86-4274-9695-27e519414d0d)
+![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/c100ae4b-9bfe-4d1e-a44b-3c6c8ed02842)
 
 ## Server-side request forgery (SSRF)
-![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/4a6b1741-9591-48d7-85c1-240a342b229d)
+![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/f13c53e6-7c7b-44b1-b4ba-2dfb9db23c1c)
 
 ## OS command injection
-![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/3e309b96-c53e-4e47-ab7b-866fb02b67a4)
+![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/c5137f02-fccb-4db3-aa0a-b49213f042d4)
 
 ## Path traversal
-![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/010b8f5d-e882-4056-b508-b68b8e22faf3)
+![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/fde8d1a2-d3f7-454c-bee2-7066d7ed27c3)
 
 ## Access control vulnerabilities
-![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/8914972d-5844-4229-8bda-43728eee96a4)
+![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/83dcb628-bdef-436f-a5f0-b20441c73ece)
 
 ## File upload vulnerabilities
-![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/d4846153-5527-40b7-ac94-e2c1de622ade)
+![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/457512ad-0c8c-4d25-b7c2-588e5977ea6d)
+
