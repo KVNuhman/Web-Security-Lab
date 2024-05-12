@@ -1,3 +1,6 @@
+## Dashboard
+![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/e5091785-0de0-4ace-a1d6-4ed9fdd9d421)
+
 ## SQL Injection Labs
 ![image](https://github.com/KVNuhman/Web-Security-Lab/assets/46161259/413bd16f-0782-43a3-8844-a0084da800d3)
 
